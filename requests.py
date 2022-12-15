@@ -9,7 +9,7 @@ class Methods(Resource):
         return data
 
     def post(self, data):
-
+        pass
 
 api.add_resource(Methods, '/')
 
